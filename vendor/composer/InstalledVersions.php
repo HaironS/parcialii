@@ -25,12 +25,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'v5.8.35',
-    'version' => '5.8.35.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '906eff84f05faec12696f69b01595830c788b734',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -156,6 +156,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '8c3d0a3f6af734494ad8f6fbbee0ba92422859f3',
+    ),
+    'ibex/crud-generator' => 
+    array (
+      'pretty_version' => 'v1.3',
+      'version' => '1.3.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '28bad86e286b9952453acb3687c8016a01022658',
     ),
     'illuminate/auth' => 
     array (
@@ -398,12 +407,12 @@ private static $installed = array (
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'v5.8.35',
-      'version' => '5.8.35.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '906eff84f05faec12696f69b01595830c788b734',
     ),
     'laravel/tinker' => 
     array (
@@ -413,6 +422,24 @@ private static $installed = array (
       array (
       ),
       'reference' => 'ad571aacbac1539c30d480908f9d0c9614eaf1a7',
+    ),
+    'laravel/ui' => 
+    array (
+      'pretty_version' => 'v1.3.0',
+      'version' => '1.3.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '21dc7e58896db977aad246e710b4810aaab9a968',
+    ),
+    'laravelcollective/html' => 
+    array (
+      'pretty_version' => 'v5.8.1',
+      'version' => '5.8.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3a1c9974ea629eed96e101a24e3852ced382eb29',
     ),
     'league/flysystem' => 
     array (
@@ -645,8 +672,8 @@ private static $installed = array (
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0',
       ),
     ),
     'psr/simple-cache' => 
