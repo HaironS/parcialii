@@ -17,7 +17,7 @@ class Pagos extends Migration
             $table->bigIncrements('id');
             $table->integer('numero_tel');
             $table->string('apellidos');
-            $table->integer('nombres');
+            $table->string('nombres');
             $table->double('monto_pago');
             $table->date('fecha_pago');
             $table->string('plan');
