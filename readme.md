@@ -7,8 +7,11 @@
 
 # 1. Uso de framework
 ***
-Laravel es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5 y PHP 7. Su filosofía es desarrollar código PHP de forma elegante y simple, evitando el "código espagueti". Fue creado en 2011 y tiene una gran influencia de frameworks como Ruby on Rails, Sinatra y ASP.NET MVC
+Laravel es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5 y PHP 7. Su filosofía es desarrollar código PHP de forma elegante y simple, evitando el "código espagueti". Fue creado en 2011 y tiene una gran influencia de frameworks como Ruby on Rails, Sinatra y ASP.NET MVC.
 
+Este programa pretende que a través de estrategias de negociación y servicio al cliente los usuarios puedan saber la fecha de pago y el monto a pagar asi como el tipo de plan que tiene.
+
+El programa le presenta al usuario una serie de acciones a realizar, esto se hace mediante la interacion (botones de opciones). El usuario elige la opción a realizar la cual consiste en un CRUD basico.
 
 
 ## 2. Tecnologias utilizadas
