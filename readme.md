@@ -1,3 +1,32 @@
-# Uso de freamword
+## Contenido
+1. [Informacion General](#Informacion-general)
+2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+3. [Informacion de usuarios y contraseña](#usuarios-contraseñas)
+4. [Datos de Autor](#datos-autor)
+
+
+# 1. Uso de framework
 ***
-Short Description about the project.
+Laravel es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5 y PHP 7. Su filosofía es desarrollar código PHP de forma elegante y simple, evitando el "código espagueti". Fue creado en 2011 y tiene una gran influencia de frameworks como Ruby on Rails, Sinatra y ASP.NET MVC
+
+
+
+## 2. Tecnologias utilizadas
+***
+A list of technologies used within the project:
+* [Laravel](https://laravel.com/docs/8.x/installation): Version 8
+* [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/download/): Version 4.1.5
+
+
+
+## 3. Informacion de usuarios y contraseña
+
+| Usuario | Contraseña |
+| ------------- | ------------- |
+| albrtsan@gmail.com  | 123456789 |
+
+
+## 4. Datos de autor
+***
+Hairon Alberto Sánchez de León
+> Carné 201409979
